@@ -8,7 +8,7 @@ This repository provides a structured approach to provisioning and managing AWS 
 
 The repository is organized as follows:
 
-.
+
 ├── environments/
 │ ├── dev/
 │ ├── stg/
